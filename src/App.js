@@ -7,7 +7,11 @@ export default function App() {
       <h1>Привіт тупенька</h1>
       <footer>
         This project was coded by Yuliya Gradobyk and is{" "}
-        <a href="https://github.com/gradobyk/react-too" target="_blank">
+        <a
+          href="https://github.com/gradobyk/react-too"
+          target="_blank"
+          rel="noreferrer"
+        >
           open-sourced on Github
         </a>
       </footer>
